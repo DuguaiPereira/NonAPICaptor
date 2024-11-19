@@ -1,19 +1,19 @@
 ### **NonAPICaptor**
 
-NonAPICaptor is a powerful Windows application designed to simplify and automate the extraction of data from specific regions of your screen. By leveraging advanced OCR (Optical Character Recognition) technology, Data Extractor Pro enables professionals, researchers, and enthusiasts to efficiently capture, process, and record data into CSV files, saving time and boosting productivity.
+NonAPICaptor is a powerful Windows application designed to simplify and automate the extraction of data from specific regions of your screen. By leveraging advanced OCR (Optical Character Recognition) technology, NonAPICaptor enables professionals, researchers, and enthusiasts to efficiently capture, process, and record data into CSV files, saving time and boosting productivity.
 
 ---
 
 ### 📦 **Features**
 - **Region Selection:** Intuitively select screen regions for data extraction using an interactive GUI.
-- **OCR Integration:** Leverage EasyOCR to accurately recognize and extract text from selected regions with precision.
+- **OCR Integration:** Leverage OCR to accurately recognize and extract text from selected regions with precision.
 - **Multiple Variable Management:** Add, configure, and manage multiple data variables with customizable settings like min/max values and prefixes.
 - **Flexible Scheduling:** Define specific days and time ranges for data collection, including weekly loops for automation.
 - **Real-Time Recording:** Start and stop continuous data recording with adjustable collection frequencies.
 - **Threshold Adjustment:** Fine-tune OCR sensitivity using adjustable threshold sliders (`x1` and `x2`) to improve text recognition.
 - **CSV Export:** Seamlessly export collected data into CSV files for further analysis and reporting.
 - **System Sleep Prevention:** Ensure uninterrupted data collection by preventing the system from entering sleep mode during operations.
-- **User-Friendly Interface:** A modern, responsive, and intuitive GUI built using CustomTkinter, designed to streamline the user experience.
+- **User-Friendly Interface:** A modern, responsive, designed to streamline the user experience.
 - **Donation Support:** Support the ongoing development of NonAPICaptor via PayPal.
 
 ---
