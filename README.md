@@ -1,6 +1,6 @@
-### **Data Extractor Pro**
+### **NonAPICaptor**
 
-Data Extractor Pro is a powerful Windows application designed to simplify and automate the extraction of data from specific regions of your screen. By leveraging advanced OCR (Optical Character Recognition) technology, Data Extractor Pro enables professionals, researchers, and enthusiasts to efficiently capture, process, and record data into CSV files, saving time and boosting productivity.
+NonAPICaptor is a powerful Windows application designed to simplify and automate the extraction of data from specific regions of your screen. By leveraging advanced OCR (Optical Character Recognition) technology, Data Extractor Pro enables professionals, researchers, and enthusiasts to efficiently capture, process, and record data into CSV files, saving time and boosting productivity.
 
 ---
 
@@ -20,7 +20,7 @@ Data Extractor Pro is a powerful Windows application designed to simplify and au
 
 ### 🚀 **Getting Started**
 1. **Download the Installer:**
-   - [Click here to download the installer (DataSetup.exe)](https://github.com/DuguaiPereira/NonAPICaptor/releases/download/1.0.0/NonAPICaptor.exe)
+   - [Click here to download the installer (NonAPICaptor.exe)](https://github.com/DuguaiPereira/NonAPICaptor/releases/download/1.0.0/NonAPICaptor.exe)
 
 2. **Run as Administrator:**
    - **Important:** Always run the application as an administrator to ensure it functions correctly with system-level permissions.
