@@ -14,7 +14,7 @@ NonAPICaptor is a powerful Windows application designed to simplify and automate
 - **CSV Export:** Seamlessly export collected data into CSV files for further analysis and reporting.
 - **System Sleep Prevention:** Ensure uninterrupted data collection by preventing the system from entering sleep mode during operations.
 - **User-Friendly Interface:** A modern, responsive, and intuitive GUI built using CustomTkinter, designed to streamline the user experience.
-- **Donation Support:** Support the ongoing development of Data Extractor Pro via PayPal.
+- **Donation Support:** Support the ongoing development of NonAPICaptor via PayPal.
 
 ---
 
@@ -26,7 +26,7 @@ NonAPICaptor is a powerful Windows application designed to simplify and automate
    - **Important:** Always run the application as an administrator to ensure it functions correctly with system-level permissions.
 
 3. **Installation:**
-   - Execute the downloaded `DataSetup.exe` file.
+   - Execute the downloaded `NonAPICaptor.exe` file.
    - Follow the on-screen instructions to install the application on your system.
 
 4. **Using NonAPICaptor:**
