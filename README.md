@@ -20,7 +20,7 @@ NonAPICaptor is a powerful Windows application designed to simplify and automate
 
 ### 🚀 **Getting Started**
 1. **Download the Installer:**
-   - [Click here to download the installer (NonAPICaptor.exe)](https://github.com/DuguaiPereira/NonAPICaptor/releases/download/untagged-15e83683b6e805eca2b8/NonAPICaptor.exe)
+   - [Click here to download the installer (NonAPICaptor.exe)](https://github.com/DuguaiPereira/NonAPICaptor/releases/download/v1.0.0/NonAPICaptor.exe)
 
 2. **Run as Administrator:**
    - **Important:** Always run the application as an administrator to ensure it functions correctly with system-level permissions.
