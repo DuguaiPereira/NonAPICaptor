@@ -37,6 +37,9 @@ NonAPICaptor is a powerful Windows application designed to simplify and automate
 5. **Closing the Application:**
    - Before closing the application, **delete any active variables** in the GUI. This helps prevent potential crashes or freezing issues during shutdown.
 
+6. **Time Format Setting:**
+
+- Important: If your system is set to a 12-hour time format and you wish to use time-based scheduling (e.g., start or end extraction at specific times), ensure you enter the correct time along with AM or PM.
 ---
 
 ### ⚙️ **System Requirements**
